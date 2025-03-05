@@ -12,4 +12,12 @@
   position: absolute;
   top: 50%;
   transform: translate(-50%, -60%) rotate(90deg);
+  background-color: aqua;
+}
+
+.page {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 90vh;
 }
